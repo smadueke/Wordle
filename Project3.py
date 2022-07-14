@@ -97,7 +97,7 @@ def playWordle(manualAnswer = None):
                 break
 
 
-playWordle("frank")
+playWordle()
 
     
 
